@@ -20,4 +20,4 @@ function getValue(){
     console.log(value);
 }
 
-// document.write(data[3-1]);
+
