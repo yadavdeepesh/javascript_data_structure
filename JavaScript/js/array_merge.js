@@ -18,3 +18,6 @@ for(let i = 0 ; i< data2.length ;i++){
 
 console.log("+++++++++++++++++merge array data ,data2 in datamerge array +++++++++")
 console.log(datamerge);
+// merge arrys
+
+
